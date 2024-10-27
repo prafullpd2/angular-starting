@@ -1,6 +1,17 @@
 # AngularStarting
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.10.
+## Info
+
+This Project is a demo to use **Angular** and **Typescript** features. Generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.10.
+
+#### Angular features
+
+- Standalone components
+
+#### Typescript Features
+
+- Creating Decorators
+
 
 ## Development server
 
